@@ -1,0 +1,2 @@
+var tripadvisorApi = "E8D9341F383847AAB98EE89426A15F8C"
+var weatherApi = "a7cf6d8b7818bef7a79d89c363469555"
